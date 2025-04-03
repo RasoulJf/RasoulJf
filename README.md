@@ -23,7 +23,7 @@
 🌱 **Currently Learning:** 3D Web Development (Three.js)  
 💡 **Passionate About:** Interactive Web Experiences & Smooth User Interfaces  
 💬 **Ask Me About:** React, Next.js, Redux, Three.js, APIs, JavaScript, Node.js
-📬 **Contact Me:** [LinkedIn](https://linkedin.com/in/rasouljalilian) | [Email](mailto:rasouljalilian8@gmail.com)  
+📬 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/rasoul-jalilian-66503025b) | [Email](mailto:rasouljalilian8@gmail.com)  
 
 ---
 
