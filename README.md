@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rasouljalilian">
+  <a href="https://www.linkedin.com/in/rasoul-jalilian-66503025b">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rasouljalilian8@gmail.com">
