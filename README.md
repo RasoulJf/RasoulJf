@@ -22,7 +22,7 @@
 🔭 **Currently Working on:** MERN Stack & Scalable Web Applications  
 🌱 **Currently Learning:** 3D Web Development (Three.js)  
 💡 **Passionate About:** Interactive Web Experiences & Smooth User Interfaces  
-💬 **Ask Me About:** React, Next.js, Redux, Three.js, APIs, JavaScript, Node.js
+💬 **Ask Me About:** React, Next.js, Redux, Three.js, APIs, JavaScript, Node.js  
 📬 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/rasoul-jalilian-66503025b) | [Email](mailto:rasouljalilian8@gmail.com)  
 
 ---
@@ -35,35 +35,34 @@
 ---
 
 ## 🎯 Current Focus  
-🚀 Developing Professional Pages **React**  
-🎨 Creating **Art with codes**  
-📈 Scaling **high-performance web applications**  
+🚀 Developing Professional Pages with **React**  
+🎨 Creating **Art with Code**  
+📈 Scaling **High-Performance Web Applications**  
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasoulJf&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RasoulJf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasoulJf&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasoulJf&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects  
 🚀 **[Interactive Portfolio](#)** – Built with React & Next.js  
-📊 **[KA - Platform ](#)** – Scalable state management  
-🎨 **[Appointment Web App](#)** – Smooth & dynamic interface  
+📊 **[KA - Platform](#)** – Scalable State Management  
+🎨 **[Appointment Web App](#)** – Smooth & Dynamic Interface  
 
 *(More coming soon... 🚀)*  
 
 ---
 
 ## 🎯 Let's Connect!  
-💬 Open to collaborations on **innovative web projects**  
+💬 Open to collaborations on **Innovative Web Projects**  
 📩 Feel free to reach out anytime!  
 
--
---
+---
 
 🔥 **"Happiness is a choice, but success requires effort!"**  
