@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://metrics.lecoq.io/RasoulJf" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RasoulJf&show_icons=true&theme=tokyonight" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasoulJf&layout=compact&theme=tokyonight" />
 </p>
